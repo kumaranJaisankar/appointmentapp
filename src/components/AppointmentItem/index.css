@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.title-star {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li {
+  width: 300px;
+  padding: 15px;
+  border: 1px solid #b5b7c4;
+  border-radius: 10px;
+}
+.apo-title {
+  color: #171f46;
+  font-weight: bold;
+}
+.date-style {
+  color: #b5b7c4;
+}
+.str-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
